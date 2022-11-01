@@ -1,1 +1,1 @@
-# django-recpatcha
+# django-recaptcha
